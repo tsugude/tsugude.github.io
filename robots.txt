@@ -1,0 +1,7 @@
+User-Agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://tsugude.github.io/products/sitemap.xml.gz
